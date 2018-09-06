@@ -1,0 +1,7 @@
+git add //filename
+// repeat for all files you want to add
+
+git commit -m "message for this commit"
+
+git push origin master
+//authenticate
