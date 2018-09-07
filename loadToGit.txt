@@ -1,7 +1,13 @@
-git add //filename
+//clone/pull
+git clone ~address~
+
+// to add a file for upload
+git add ~filename~
 // repeat for all files you want to add
 
+// message for this commit
 git commit -m "message for this commit"
 
+// push to github
 git push origin master
 //authenticate
